@@ -1,20 +1,21 @@
-# car
+# Car Dealership Application
 
-##### App that displays searchable car database. , 8/4/2015
+##### App that allows users to post and search cars, 8/6/2015
 
-#### By Logan Wu & Kyle Pratuch
+#### By Logan Wu & Jeffery Austin
 
 ## Description
+Sellers can post their cars(names, price, miles, and images) and buyers can search cars they want to buy by searching their ideal price range and mileage. 
 
 ## Setup
 
 ## Technologies Used
 
-PHP, HTML, CSS, Silex
+PHP, HTML, CSS, Silex, Twig
 
 ## Legal
 
-Copyright (c) 2015 Logan Wu, Kyle Pratuch
+Copyright (c) 2015 **Logan Wu, Jeffery Austin**
 
 This software is licensed under the MIT license.
 
